@@ -1,4 +1,4 @@
-# prime_numbers_cuda
+# Prime numbers CUDA
 
 
 #### Technologies
